@@ -46,7 +46,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine (v20
 
 1.  **Clone the repository** to your local machine:
     ```sh
-    git clone "url"
+    git clone 
     ```
 
 2.  **Navigate into the project directory:**
