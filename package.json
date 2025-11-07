@@ -10,7 +10,7 @@
         "format": "prettier --write ",
         "test": "echo ",
         "dev": "quasar dev",
-        "build": "quasar build"
+        "build": "NODE_OPTIONS=--max-old-space-size=4096 quasar build"
     },
     "dependencies": {
         "@quasar/extras": "^1.16.4",
