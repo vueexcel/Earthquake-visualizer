@@ -10,13 +10,13 @@
         "format": "prettier --write ",
         "test": "echo ",
         "dev": "quasar dev",
-        "build": "NODE_OPTIONS=--max-old-space-size=4096 quasar build"
+        "build": "quasar build"
     },
     "dependencies": {
         "@quasar/extras": "^1.16.4",
         "axios": "^1.13.2",
         "echarts": "^6.0.0",
-        "pinia": "^3.0.4",
+        "pinia": "^2.1.7",
         "quasar": "^2.6.0",
         "vue": "^3.0.0",
         "vue-echarts": "^8.0.1",
