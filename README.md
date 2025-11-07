@@ -2,11 +2,6 @@
 
 A feature-rich, responsive data dashboard built to visualize weekly earthquake data from the public USGS API. This project was created as a frontend test task to demonstrate proficiency with a modern web stack.
 
-![Application Screenshot](./public/screenshot.png)
-*(**Note:** This path assumes you will place a screenshot named `screenshot.png` inside the `/public` folder of your project!)*
-
----
-
 ## ✨ Key Features
 
 This dashboard isn't just a simple data display; it's a fully interactive and reactive application with a focus on user experience.
@@ -51,12 +46,12 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine (v20
 
 1.  **Clone the repository** to your local machine:
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone "url"
     ```
 
 2.  **Navigate into the project directory:**
     ```sh
-    cd your-repo-name
+    cd Quasar-project
     ```
 
 3.  **Install all the necessary dependencies.** This command reads the `package.json` file and downloads all the required libraries into the `node_modules` folder.
